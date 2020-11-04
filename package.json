@@ -1,0 +1,41 @@
+{
+	"name": "java-fill",
+	"displayName": "Java Fill",
+	"description": "Java snippets",
+	"publisher": "trende2001",
+	"icon": "logo/index.png",
+	"homepage": "https://github.com/trende2001/java-fill",
+	"preview": true,
+	"version": "1.0.3",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"categories": [
+		"Snippets",
+		"Other"
+	],
+	"keywords": [
+		"package.json",
+		"node",
+		"java",
+		"snippet",
+		"fill"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/trende2001/java-fill"
+	},
+	"contributes": {
+		"snippets": [
+			{
+				"language": "java",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "747159ff-b40f-4b9b-b66c-f8eb38df4081",
+		"publisherDisplayName": "trend",
+		"publisherId": "8e7e84da-5b68-476a-a187-e2a6fd39efdf"
+	}
+}

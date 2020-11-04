@@ -1,0 +1,67 @@
+{
+    "Package":{
+        "prefix": "package",
+        "body": [
+            "package"
+        ],
+        "description": "Fillout",
+    },
+    "Class":{
+        "prefix": "class",
+        "body": [
+            "class"
+        ],
+        "description": "Fillout"
+    },
+    "Public":{
+        "prefix": "public",
+        "body": [
+            "public"
+        ],
+        "description": "Fillout"
+    },
+    "Static":{
+        "prefix": "static",
+        "body": [
+            "static"
+        ],
+        "description": "Fillout"
+    },
+    "Void":{
+        "prefix": "void",
+        "body": [
+            "void"
+        ],
+        "description": "Fillout"
+    },
+    "Print":{
+        "prefix": "print",
+        "body": "print()",
+        "description": "Fillout"
+    },
+    "Private":{
+        "prefix": "private",
+        "body": "private",
+        "description": "Fillout"
+    },
+    "String":{
+        "prefix": "String",
+        "body": "String",
+        "description": "Fillout"
+    },
+    "This":{
+        "prefix": "this",
+        "body": "this",
+        "description": "Fillout"
+    },
+    "()":{
+        "prefix": "()",
+        "body": "()",
+        "description": "Fillout"
+    },
+    "{}":{
+        "prefix": "{}",
+        "body": "{}",
+        "description": "Fillout"
+    },
+}
