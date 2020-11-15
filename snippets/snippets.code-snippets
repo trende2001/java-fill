@@ -39,6 +39,16 @@
         "body": "print()",
         "description": "Fillout"
     },
+    "PrintLn":{
+        "prefix": "println",
+        "body": "println('')",
+        "description": "Fillout"
+    },
+    "Assert":{
+        "prefix": "assert",
+        "body": "assert",
+        "description": "Fillout"
+    },
     "Private":{
         "prefix": "private",
         "body": "private",
@@ -54,14 +64,89 @@
         "body": "this",
         "description": "Fillout"
     },
-    "()":{
-        "prefix": "()",
-        "body": "()",
+    "Return":{
+        "prefix": "return",
+        "body": "return",
         "description": "Fillout"
     },
-    "{}":{
-        "prefix": "{}",
-        "body": "{}",
+    "Import":{
+        "prefix": "import",
+        "body": "import",
+        "description": "Fillout"
+    },
+    "If":{
+        "prefix": "if",
+        "body": "if",
+        "description": "Fillout"
+    },
+    "Else":{
+        "prefix": "else",
+        "body": "else",
+        "description": "Fillout"
+    },
+    "Boolean":{
+        "prefix": "boolean",
+        "body": "boolean",
+        "description": "Fillout"
+    },
+    "Final":{
+        "prefix": "final",
+        "body": "final",
+        "description": "Fillout"
+    },
+    "Throws":{
+        "prefix": "throws",
+        "body": "throws",
+        "description": "Fillout"
+    },
+    "System":{
+        "prefix": "System",
+        "body": "System",
+        "description": "Fillout"
+    },
+    "While":{
+        "prefix": "while",
+        "body": "while",
+        "description": "Fillout"
+    },
+    "Out":{
+        "prefix": "out",
+        "body": "out",
+        "description": "Fillout"
+    },
+    "Extends":{
+        "prefix": "extends",
+        "body": "extends",
+        "description": "Fillout"
+    },
+    "New":{
+        "prefix": "new",
+        "body": "new",
+        "description": "Fillout"
+    },
+    "Try":{
+        "prefix": "try",
+        "body": "try",
+        "description": "Fillout"
+    },
+    "Catch":{
+        "prefix": "catch",
+        "body": "catch",
+        "description": "Fillout"
+    },
+    "Function":{
+        "prefix": "function",
+        "body": "function",
+        "description": "Fillout"
+    },
+    "True":{
+        "prefix": "true",
+        "body": "true",
+        "description": "Fillout"
+    },
+    "False":{
+        "prefix": "false",
+        "body": "false",
         "description": "Fillout"
     },
 }
